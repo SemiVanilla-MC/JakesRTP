@@ -42,7 +42,7 @@ commands:
 permissions:
   jakesrtp.use:
     description: 'Allows the use of the base "/rtp" command'
-    default: true
+    default: false
   jakesrtp.usebyname:
     description: 'Allows players to give a rtpSettings name after rtp as such: "/rtp <settingsName>"'
     default: false
